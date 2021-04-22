@@ -1,4 +1,4 @@
-# aiGym
+# aiGymProject
 2020년 1학기
 임베디드 실습 수업중에
 마지막 일주일동안 만든 aijym 
